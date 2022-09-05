@@ -5,8 +5,8 @@
   "version_id": 1000170,
   "version_string": "1.0.1",
   "dev": "z17 Dev",
-  "dev_url": "https://github.com/cmfstore/xenforo-share-page",
-  "support_url": "https://github.com/cmfstore/xenforo-share-page/issues",
+  "dev_url": "https://github.com/cmfstore/xenforo-ext-share-page",
+  "support_url": "https://github.com/cmfstore/xenforo-ext-share-page/issues",
   "require": {
     "XF": [
       2010070,

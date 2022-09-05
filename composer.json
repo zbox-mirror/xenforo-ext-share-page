@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/xenforo-share-page",
+  "name": "cmfstore/xenforo-ext-share-page",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
@@ -23,8 +23,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-share-page/issues",
-    "source": "https://github.com/cmfstore/xenforo-share-page"
+    "issues": "https://github.com/cmfstore/xenforo-ext-share-page/issues",
+    "source": "https://github.com/cmfstore/xenforo-ext-share-page"
   },
   "require": {
     "composer/installers": "^1.9"
