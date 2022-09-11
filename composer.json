@@ -1,9 +1,9 @@
 {
-  "name": "cmfstore/xenforo-ext-share-page",
+  "name": "zmarket/xenforo-ext-share-page",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
-  "homepage": "https://github.com/cmfstore",
+  "homepage": "https://z17.dev/",
   "keywords": [
     "xenforo",
     "share"
@@ -23,8 +23,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-ext-share-page/issues",
-    "source": "https://github.com/cmfstore/xenforo-ext-share-page"
+    "issues": "https://github.com/zbox/xenforo-ext-share-page/issues",
+    "source": "https://github.com/zbox/xenforo-ext-share-page"
   },
   "require": {
     "composer/installers": "^1.9"
