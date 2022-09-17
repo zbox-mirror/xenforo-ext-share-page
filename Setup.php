@@ -1,6 +1,6 @@
 <?php
 
-namespace CMFStore\ext_7f33fcfa;
+namespace Z17\ext_7f33fcfa;
 
 use XF\AddOn\AbstractSetup;
 
